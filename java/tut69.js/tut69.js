@@ -1,1 +1,0 @@
-console.log("this is tu 69")
